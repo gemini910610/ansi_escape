@@ -1,4 +1,4 @@
-from __ansi_escape import ANSIEscape
+from .__ansi_escape import ANSIEscape
 
 
 class Text(ANSIEscape):
